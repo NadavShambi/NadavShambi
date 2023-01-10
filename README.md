@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nadav.</h1>
 <h3 align="center">I'm Looking for my next challenge in Frontend / Full stack development positions.</h3>
 
+- 🔭I’m currently looking for my first opportunity to work in **web development.**
+
+- 🌱 I’m continue to learn and develop my **Frontend skills.**
+
 - 👨‍💻 All of my projects are available [here](here)
 
 - 📫 How to reach me **Nadav.Shambi@gmail.com**
