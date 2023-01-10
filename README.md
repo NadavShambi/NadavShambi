@@ -1,5 +1,7 @@
-   <h1 align="center">Hi 👋, I'm Nadav.</h1>
+   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nadav.</h1>
 <h3 align="center">I'm Looking for my next challenge in Frontend / Full stack development positions.</h3>
+
+## 🙋‍♂️ About Me
 
 - 🔭I’m currently looking for my first opportunity to work in **web development.**
 
@@ -9,7 +11,9 @@
 
 - 📫 How to reach me **Nadav.Shambi@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+## 🚀 Languages and Tools:
+
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -34,11 +38,13 @@
 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
+## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/nadav-shambi-0a11a924b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadav shambi" height="30" width="40" /></a>
 </p>
 
+## 📊 My Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadavshambi&show_icons=true&title_color=70aeff&text_color=4db6ea&locale=en&layout=compact" alt="nadavshambi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadavshambi&show_icons=true&locale=en" alt="nadavshambi" /></p>
