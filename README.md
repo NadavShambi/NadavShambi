@@ -7,7 +7,7 @@
 
 - 🌱 I’m continue to learn and develop my **Frontend skills.**
 
-- 👨‍💻 All of my projects are available [here](here)
+<!-- - 👨‍💻 All of my projects are available [here](here) -->
 
 - 📫 How to reach me **Nadav.Shambi@gmail.com**
 
