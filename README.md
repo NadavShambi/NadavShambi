@@ -3,8 +3,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭I’m currently looking for my first opportunity to work in **web development.**
-
 - 🌱 I’m continue to learn and develop my **Frontend skills.**
 
 <!-- - 👨‍💻 All of my projects are available [here](here) -->
